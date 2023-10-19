@@ -1,4 +1,8 @@
-<br><br><br><br>
+<br><br><br>
+
+https://sonukushwaha.com/resume.pdf
+
+<br>
 
 
 **&copy; [Sonu Kumar Kushwaha](https://singlebucks.blogspot.com)**
