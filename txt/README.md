@@ -1,5 +1,5 @@
 
-    [AZURE.txt](https://github.com/flyingsonu122/flyingsonu122.github.io/blob/main/txt/NVM.txt)
+   https://github.com/flyingsonu122/flyingsonu122.github.io/blob/main/txt/NVM.txt
     bash.txt
     commands.txt
     curl.txt
