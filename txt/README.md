@@ -1,5 +1,5 @@
 
-    /AZURE.txt
+    [AZURE.txt](AZURE.txt)
     bash.txt
     commands.txt
     curl.txt
