@@ -1,4 +1,0 @@
-https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-hello-world
-
-
-https://app.netlify.com/start/deploy?repository=<link to repo>

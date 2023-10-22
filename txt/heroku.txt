@@ -1,4 +1,0 @@
-heroku login 
-heroku create <project name>
-git push heroku main
-heroku open

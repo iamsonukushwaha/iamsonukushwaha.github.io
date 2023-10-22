@@ -1,3 +1,0 @@
-vim new-file.txt
-i          => to insert in writing mode 
-:wq        => to write and quit i.e, save
