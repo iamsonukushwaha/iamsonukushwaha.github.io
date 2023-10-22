@@ -1,0 +1,41 @@
+curl --version
+
+curl -V
+
+curl --help
+
+// see content
+
+curl < URL >
+curl https://www.google.com/
+curl https://flyingsonu122.github.io/Diwali-Wishes/db.json
+
+// to see content with headers
+
+curl -i https://flyingsonu122.github.io/Diwali-Wishes/db.json
+
+// to onle header
+
+curl --head https://flyingsonu122.github.io/Diwali-Wishes/db.json
+curl -I https://flyingsonu122.github.io/Diwali-Wishes/db.json
+
+// to output in a file
+curl -o < FILE NAME > < URL >
+curl -o db.txt https://flyingsonu122.github.io/Diwali-Wishes/db.json
+
+// to download
+curl -O < URL >
+curl -O https://flyingsonu122.github.io/Diwali-Wishes/db.json
+curl -O https://curl.se/logo/curl-logo.svg
+curl -O https://user-images.githubusercontent.com/51280276/111374767-7c794880-86c3-11eb-9c74-f285fcd47827.png
+
+
+
+
+
+
+
+
+
+
+

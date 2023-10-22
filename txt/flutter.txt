@@ -1,0 +1,3 @@
+flutter --version
+flutter create <project_name>
+flutter run 

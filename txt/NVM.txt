@@ -1,0 +1,10 @@
+nvm
+
+nvm version
+
+nvm install latest
+
+nvm use 15.2.0
+
+nvm list
+

@@ -1,0 +1,8 @@
+cat /etc/shells
+which bash
+cd desktop
+touch helloScript.sh
+ls -al
+
+chmod +x helloScript.sh
+./helloScript.sh

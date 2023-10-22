@@ -1,0 +1,10 @@
+vsce login < PUBLISHER ID >
+
+then type your PUBLISHER TOKEN
+
+vsce package
+
+vsce publish
+
+
+
