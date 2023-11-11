@@ -1,7 +1,4 @@
 <br><br><br>
-
-https://sonukushwaha.com/resume.pdf
-
 <br>
 
 
