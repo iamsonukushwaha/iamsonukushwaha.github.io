@@ -1,4 +1,11 @@
 <br><br><br>
+
+https://sonukushwaha.com
+
+https://sonukushwaha.com/tarana
+
+
+https://sonukushwaha.com/resume.pdf
 <br>
 
 
