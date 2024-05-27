@@ -4,8 +4,13 @@ https://sonukushwaha.com
 
 https://sonukushwaha.com/tarana
 
+https://sonukushwaha.com/linkedin
 
-https://sonukushwaha.com/resume.pdf
+https://sonukushwaha.com/photos
+
+https://sonukushwaha.com/blog
+
+https://sonukushwaha.com/resume
 
 
 
