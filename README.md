@@ -17,8 +17,7 @@ https://iamsonukushwaha.github.io/links
 
 https://iamsonukushwaha.github.io/photos
 
-
-
+curl -s https://iamsonukushwaha.github.io/sonu.txt
 
 
 
